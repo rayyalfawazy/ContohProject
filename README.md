@@ -1,76 +1,68 @@
-# Customizable Portfolio — Rayyan Alfawazy (2026 Edition)
+# Customizable Portfolio — Rayyan Alfawazy (Technology Educator & Coding Teacher)
 
-A portfolio website crafted with a **Dark Theme** and a **Natural Green / Forest Emerald Color Palette**.
-
-Designed for software engineers, developers, and architects, this portfolio is equipped with an **in-browser live customizer**, responsive layouts, glassmorphism cards, and complete integration for experiences, projects, education, and social channels.
+A customizable portfolio website built with a **Dark Theme** and **Natural Green Palette**, specially configured for a **Technology Educator & Coding Teacher**.
 
 ---
 
-## 🌿 Highlights & Features
+## 🌿 Educator & Technical Highlights
 
-### 1. Natural Green & Deep Dark Palette
-- **Obsidian / Midnight Slate base** (`#070b09`, `#0d1410`, `#121c17`)
-- **Natural Green Accents**: Emerald, Forest Pine, Sage Mint, and Moss Olive (`#10b981`, `#059669`, `#34d399`, `#4ade80`)
-- **Ambient backdrop lights & subtle mesh grid** for a modern aesthetic
-- **Glassmorphism cards** with responsive hover elevations and borders
+### 1. Educator Experience & Teaching Metrics
+- **Prominent Educator Experience Duration**:
+  - Displays **"2+ Years of Technology & Coding Education Experience"** in the Hero availability pill.
+  - Dedicated **"2+ Years Educator Experience"** metric on the Hero Profile Card.
+  - Mentoring metric: **"300+ Students Mentored"**.
+  - 100% Hands-on, Project-Based Learning methodology.
+- **Customizable Experience Duration**: You can adjust your experience duration (e.g. `2+ Years`, `3 Years`, etc.) and student count anytime via the **"Customize"** button in the UI or in code.
 
-### 2. Prominent Name & Professional Title
-- **Display Name**: Rayyan Alfawazy
-- **Professional Title**: Full Stack Software Engineer & Cloud Systems Architect
-- Highlighted across the **Sticky Navbar**, **Hero Section**, **Interactive Tech Arsenal Card**, and **Footer**.
+### 2. Teaching & Technical Arsenal
+Includes dedicated badges and cards for your key languages and game platforms:
+- 🐍 **Python**: Core programming, syntax, computational logic, and scripting automation.
+- ⚡ **Javascript**: Modern ES6+, DOM manipulation, asynchronous programming, and interactive web logic.
+- ⚛️ **React Js**: Component-based frontend architecture, hooks, state management, and modern responsive UI.
+- 🚂 **Express Js**: Node.js RESTful APIs, routing, backend server architecture, and middleware.
+- 🎮 **Unity**: C# game scripting, 2D/3D physics engines, character controllers, and interactive game loops.
+- 🧱 **Roblox Development**: Roblox Studio, Lua scripting, multiplayer networking, and immersive 3D world creation.
 
-### 3. Navigation Bar
-- **Sticky Glassmorphism Header** with blur backdrop
-- Links:
-  - 💼 **Experiences** (`#experiences`)
-  - 📂 **Projects** (`#projects`) — with direct GitHub repository buttons
-  - 🎓 **Education** (`#education`) — degrees and certifications
-  - ✉️ **Contact** (`#contact`) — all social platforms and business email
-- Action buttons:
-  - **Customize** button (opens the live customization drawer)
-  - **Get in Touch** quick link
-  - Mobile responsive hamburger menu
+### 3. Coding, Teaching & Mentoring Soft Skills
+A dedicated **"Skills & Pedagogical Arsenal"** section (`#skills`) detailing your essential instructional soft skills:
+- 🤝 **Student Mentoring & Coaching**: Patient 1-on-1 technical coaching, debugging assistance, and building student self-confidence.
+- 📐 **Curriculum & Lesson Design**: Structuring progressive coding roadmaps from basic computational thinking to advanced full-stack concepts.
+- 💡 **Project-Based Learning (PBL)**: Guiding learners to acquire knowledge by building tangible, publishable apps and games.
+- 🔍 **Interactive Code Reviews**: Constructive feedback fostering clean code conventions, refactoring, and independent problem-solving.
+- 🧩 **Algorithmic Problem-Solving**: Breaking down intricate coding puzzles into intuitive, digestible step-by-step logic.
+- ✨ **Inspirational Communication**: Creating an engaging, inclusive classroom environment that sparks curiosity and enthusiasm for technology.
 
-### 4. Featured Projects with GitHub Links
-- Interactive category filtering: **All**, **Full-Stack**, **Cloud / AI**, and **Systems**.
-- Each project card displays:
-  - Category badge & release year
-  - Title and technical overview
-  - Key performance metrics / highlights
-  - Tech stack tag pills
-  - **GitHub Link** button (with GitHub icon)
-  - **Live Demo** preview button
+### 4. Adjustable Career & Teaching Experiences
+Maintains a dynamic timeline in `#experiences` featuring:
+1. **Technology Educator & Coding Teacher** (Active Role, 2024 - Present, 2+ Years)
+2. **Software Developer Intern** at Aptronim Visual Works (2023 - 2024)
 
-### 5. Education & Industry Certifications
-- **Formal Degrees**: Degree details, institution, academic honors, and specialization.
-- **Certifications**: AWS Certified Solutions Architect, Google Cloud Professional Cloud Architect, Certified Kubernetes Administrator (CKA), and Meta Professional Front-End Engineer.
+### 5. Verified Contact Channels
+- 💼 **LinkedIn**: `in/rayyan-alfawazy`
+- 📸 **Instagram**: `@rayy_alfawazy`
+- 🎵 **TikTok**: `@rayy_alfawazy10`
+- 🎥 **YouTube**: `@RayyAlfawazy`
+- 📧 **Business & Teaching Email**: `rayyalfawazy@gmail.com` (with 1-click **Copy-to-Clipboard**)
+- 📨 **Direct Contact Form**: Simulated inquiry submission with instant confirmation.
 
-### 6. Contact & Social Channels
-Features all requested platforms:
-- 🔗 **LinkedIn**
-- 📸 **Instagram**
-- 🎵 **TikTok**
-- 🎥 **YouTube**
-- 📧 **Official Business Email** with 1-click **Copy-to-Clipboard** and `mailto:` action
-- 📨 **Interactive Direct Message Form** with instant client-side confirmation
+### 6. In-Browser Live Customizer
+Click the **"Customize"** button to adjust:
+- Display Name & Title
+- Educator Experience Duration (e.g. `2+ Years`)
+- Students Mentored (e.g. `300+`)
+- Bio description
+- Technical Skills (comma-separated list)
+- Soft Skills (comma-separated list)
+- Social links & Email
+- Natural Green theme palettes (Deep Emerald, Forest Pine, Sage Mint, Moss Olive)
+- **Export to JSON** & **Reset to Defaults**
 
 ### 7. Footer
-- Features the exact copyright attribution:
+- Exact copyright notice:
   `&copy Rayyan Alfawazy 2026`
-
-### 8. Live In-Browser Customizer
-Click the **"Customize"** button in the header, hero, or footer to open the live editor:
-- Edit Name, Professional Title, and Bio live without editing code
-- Update links for LinkedIn, Instagram, TikTok, YouTube, GitHub, and Business Email
-- Switch between 4 Natural Green color palettes (Emerald, Forest, Sage, Moss)
-- **Export to JSON** to save or backup configuration
-- **Local Storage Persistence**: updates persist even after page refresh
-- **Reset to Defaults** button to restore initial state
 
 ---
 
 ## 🚀 How to Run
 
-Simply open [index.html](file:///c:/Users/Teacher%20BSD%2021Feb/Documents/Teacher%20Rayyan/ContohProject/index.html) in any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, or Safari).
-
-No installation, build step, or external web server is required.
+Simply open [index.html](file:///c:/Users/Teacher%20BSD%2021Feb/Documents/Teacher%20Rayyan/ContohProject/index.html) in any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, Safari).
